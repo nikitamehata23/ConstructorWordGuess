@@ -68,3 +68,21 @@ This project is a command line version of the classic WordGuess constructor. Thi
 <pre>
 $ node index.js
 
+
+
+![Screenshot (36)](https://user-images.githubusercontent.com/50224446/60312051-66d85400-991f-11e9-8ab6-ff93b8afc96d.png)
+
+
+
+![Screenshot (37)](https://user-images.githubusercontent.com/50224446/60312056-6b047180-991f-11e9-8b2f-707052a2c32c.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/50224446/60312063-722b7f80-991f-11e9-9f82-b0b4d9ad725b.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/50224446/60312065-75267000-991f-11e9-8ba6-0429413fc1c3.png)
+
+![Screenshot (40)](https://user-images.githubusercontent.com/50224446/60312067-76f03380-991f-11e9-935e-1bb566390118.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/50224446/60312071-79eb2400-991f-11e9-8dd9-6ea4e70c9f6d.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/50224446/60312076-7e174180-991f-11e9-9aed-18bba1a77f6c.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/50224446/60312079-80799b80-991f-11e9-86eb-a65f456ec538.png)
+
+![Screenshot (45)](https://user-images.githubusercontent.com/50224446/60312084-84a5b900-991f-11e9-9ccf-584d5a6b65a2.png)
+
+
