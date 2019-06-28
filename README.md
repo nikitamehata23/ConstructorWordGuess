@@ -23,10 +23,6 @@ To play the game from your computer and/or contribute to this project, perform t
   2. [Install Node.js](#install-node)
   3. [Install the dependencies](#dependencies)
 
-### <a name="clone-repository"></a> Clone the repository
-The first step is to clone the project repository to a local directory on your computer. To clone the repository, run the following commands:
-<pre>
-
 #### <a name="structure-of-project"></a> Structure of the project
 <p>After you clone the repository, navigate to the project root directory (constructor-hangman). The project directory structure is set up as follows:</p>
 <ul>
@@ -79,3 +75,5 @@ The first step is to clone the project repository to a local directory on your c
 <p>When you run this command, you will see the following screen:</p>
 <pre>
 $ node index.js
+
+## Demo ()
