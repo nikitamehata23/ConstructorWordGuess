@@ -76,4 +76,4 @@ To play the game from your computer and/or contribute to this project, perform t
 <pre>
 $ node index.js
 
-## Demo ()
+## Demo (https://drive.google.com/open?id=1gy224qyEBFhkZjvVxS28sr_zTdp1_IeY)
