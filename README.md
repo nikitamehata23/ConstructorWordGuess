@@ -1,5 +1,5 @@
 # ConstructorWordGuess
-chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/494772c2-2a11-4070-ya10-eab112be573e
+(chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/494772c2-2a11-4070-ya10-eab112be573e)
 ## Table of contents
   * [Demo](#demo)
   * [About this project](#about-this-project)
@@ -76,5 +76,3 @@ To play the game from your computer and/or contribute to this project, perform t
 <pre>
 $ node index.js
 
-## Demo
-chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/494772c2-2a11-4070-ya10-eab112be573e
