@@ -16,11 +16,8 @@
 ## <a name="about-this-project"></a> About this project
 This project is a command line version of the classic WordGuess constructor. This game uses similar logic browser based wordguessing game created, but with this game, I created a command line version using Javascript constructor functions to create letter and word objects, the inquirer npm package to prompt users to guess a letter, and Node.js to run the Javascript code from the command line. For more information on how this project was constructed and put together, see [Structure of the project](#structure-of-project).
 
-## <a name="contribute"></a> Getting started
-To play the game from your computer and/or contribute to this project, perform the following steps:
-  1. [Clone the repository](#clone-repository)
-  2. [Install Node.js](#install-node)
-  3. [Install the dependencies](#dependencies)
+## Starting
+  1. [Install the dependencies](#dependencies)
 
 #### <a name="structure-of-project"></a> Structure of the project
 <p>After you clone the repository, navigate to the project root directory (constructor-hangman). The project directory structure is set up as follows:</p>
