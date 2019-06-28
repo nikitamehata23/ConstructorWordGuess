@@ -30,7 +30,13 @@ var gameTextColor = clc.cyanBright;
 var userGuessedCorrectly = false;
 
 //Our word bank - predefined list of words to choose from. 
-var wordList = ["Baseball", "Basketball", "Table Tennis", "Volleyball", "Tennis", "Field Hokey", "Cricket", "Football", "Soccer", "Golf", "Rugby", "Bullfighting", "Wrestling", "Croquet", "Pennball"];
+var wordList = ["rabbit", "airport", "snail", "airpot", "carrots", "river","mountain",
+"house", "mitten", "crown", "volleyball", "bird",
+ "volcano", "fireman", "science", "window", "ground", "muscle",
+   "earth", "toothpaste", "daughter", "tongue",
+   "popcorn", "launch", "exercise", "carve", "stamp", "program", "haircut", "brush",
+	"spell", "thirty", "twenty", "forty", "fifty", "sixty",
+	 "seventy", "eighty", "ninenty", "hundred"];
 
 //Choose random word from wordList.
 var randomWord;
@@ -60,9 +66,11 @@ figlet("Constructor wordGuess", function(err, data) {
         return;       
     }
     console.log(data)
-    //Welcome screen text.
+	//Welcome screen text.                                                                            
+	
+
     console.log(gameTextColor("Let's Guess the Word!"));
-    console.log(gameTextColor("Theme is... Popular Games"));
+    console.log(gameTextColor("Random words....."));
     //Game instructions.
     var howToPlay = 
     "==========================================================================================================" + "\r\n" +

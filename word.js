@@ -23,17 +23,12 @@ var Word = function(myWord) {
 	//After we get a random word from the word list, I think I need to use the split method to add the letters to the this.letters array.
 	this.splitWord = function() {
 		this.letters = this.myWord.split("");
-		//console.log(this.letters);
+		
 		//Determine number of underscores needed based on length of this.letters array in the Word constructor.
 		numberUnderscoresNeeded = this.letters.length;
-		//console.log("Underscores: " + numberUnderscoresNeeded);
-		//Create for loop that pushes the underscores to the this.underscores array in Word constructor.
-		// for (var i=0; i < numberUnderscoresNeeded; i++ ) {
-		//this.underscores.push("_ ");
-		// }
-		//console.log(this.underscores);
+		
 		//Use the .join method to join each underscore that we pushed to the this.underscores array by a space.
-		console.log(this.underscores.join("_"));
+		console.log(this.underscores.join(" "));
 	}
 	this.generateLetters = function() {
 		for (i=0; i < this.letters.length; i++){
@@ -46,10 +41,6 @@ var Word = function(myWord) {
 	}
 }
 
-//test word constructor. Test successful.
-// var someWord = new Word ("Burnsville");
-// someWord.splitWord();
-// someWord.generateLetters();
 
 //Export the Word constructor so that we can use/reference it in index.js.
 module.exports = Word;
